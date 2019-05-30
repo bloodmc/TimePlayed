@@ -6,4 +6,5 @@ api-version: 1.13
 commands:
    played:
       description: Shows total time played since login.
+      permission: me.bloodmc.timeplayed
       usage: /played
