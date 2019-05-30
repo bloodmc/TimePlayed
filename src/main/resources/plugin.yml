@@ -1,0 +1,9 @@
+name: TimePlayed
+main: me.bloodmc.timeplayed.TimePlayedPlugin
+load: STARTUP
+version: 0.1
+api-version: 1.13
+commands:
+   played:
+      description: Shows total time played since login.
+      usage: /played
